@@ -1,6 +1,7 @@
+
 # Hi there! 👋
 
-I'm Abubakar, a passionate Mobile App Developer based in Pakistan. Welcome to my GitHub profile!
+I'm Abubakar, a passionate Android Developer based in Pakistan. Welcome to my GitHub profile!
 
 ## 🔭 What I'm Working On 
 
